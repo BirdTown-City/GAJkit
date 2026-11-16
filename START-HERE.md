@@ -110,7 +110,7 @@ In two or three sentences: you'll start with why they're looking, then talk thei
 
 ### 2. Agree where the files live
 
-GAJ keeps its memory in a few markdown files. Ask the candidate where they'd like them saved: a folder, a project, a drive, a notes app, or wherever they keep things.
+GAJ keeps its memory in a few markdown files that hold the candidate's real career. Ask the candidate where they'd like them saved: a private folder, a project, a drive, a notes app, or wherever they keep things. It should be somewhere private and separate from their copy of this kit, so that updating or sharing the kit never touches their files.
 
 Then check whether you can actually write there with the tools you have in this conversation, and tell them plainly which of these is true:
 
@@ -122,6 +122,8 @@ Record the answer in the Settings section of `candidate-profile.md`.
 ### 3. Create the working files
 
 Create these four files now, each from the layout in the phase file named. Leave sections blank until a step fills them.
+
+Before you create each one, check whether a file of that name is already in the chosen place. If it is, don't overwrite it. Stop and ask the candidate whether to use the existing file, keep it and create the new one under another name, or replace it.
 
 | File | What it holds | Layout in |
 |---|---|---|
