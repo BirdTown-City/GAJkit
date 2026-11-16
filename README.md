@@ -34,3 +34,7 @@ Each kit version is tagged (for example `kit-v1.1`) and published as a GitHub Re
 ## Privacy
 
 This kit contains no real candidate's data. If you find a real person's name, a private link or other personal information in it, open an issue that says only which file it's in and what kind of thing it is. Please don't copy the information itself into the issue, because that would make another lasting copy of it.
+
+## License
+
+The kit is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You may use it with your own AI for your own job search, and you may share it or adapt it with credit, but not for commercial purposes. See `LICENSE` for the details and a suggested credit line.
