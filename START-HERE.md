@@ -123,19 +123,28 @@ Don't write anything yet. You record this answer in step 4, once `candidate-prof
 
 Ask whether the candidate has used GAJ before and has files from it: a story bank, a tracker or registers, a journal, a candidate model or profile, resumes. Spreadsheets are fine as CSV exports.
 
-If they do, build the new working files from them in the next step instead of starting blank:
+If they do, build the new working files from them in the next step instead of starting blank.
+
+First, make sure the import has a clean place to land:
+
+- **Treat the old files as read-only.** Read them; never edit, move, rename or delete them.
+- **Use a separate private place for the new files,** not the folder the old files are in.
+- **Before you write anything, check all four working-file names there** (`journal.md`, `candidate-profile.md`, `story-bank.md`, `tracker.md`). If any of them already exists, including a leftover from an import that was interrupted, stop. Ask the candidate to choose a fresh private folder, and check again there. Don't replace or add to existing files as part of an import.
+- **If the place changes,** check again that you can write there, as in step 2. The new place is the answer you record in step 4.
+
+Then carry the old files across:
 
 - **Keep every entry.** Put each one where it fits in the new files. Old registers go into `tracker.md`: outstanding roles to Opportunities, applied roles to Applications, networking to People, watch lists to Watching, and run or sweep logs to the Search log.
 - **Change nothing in the content.** Keep each fact's wording, numbers and confidence label. Where an old label isn't one of the labels above, use the nearest one that is no stronger, and note the old label. Converting isn't a review: don't promote, rewrite or drop anything.
 - **Flag what doesn't fit.** Anything you can't place goes in an "Imported, not yet placed" section at the end of the nearest file, saying where it came from.
-- **Leave the old files as they are,** and don't work from them once the new files exist. If an old file has the same name as a new one, the existing-file check in the next step applies to it.
-- **Tell the candidate** in a few lines what came in, where it went and what's unplaced, write the same in the first journal entry, and ask them to check it.
+- **Don't work from the old files once the new files exist.**
+- **Once all four new files are in place,** tell the candidate in a few lines what came in, where it went and what's unplaced, write the same in the first journal entry, and ask them to check it.
 
 ### 4. Create the working files
 
 Create these four files now, each from the layout in the phase file named, or from the candidate's old files (step 3). Leave sections blank until a step fills them.
 
-Before you create each one, check whether a file of that name is already in the chosen place. If it is, don't overwrite it. Stop and ask the candidate whether to use the existing file, keep it and create the new one under another name, or replace it.
+If you're importing old files, step 3's check already covers this: all four names were free before you wrote anything. Otherwise, before you create each one, check whether a file of that name is already in the chosen place. If it is, don't overwrite it. Stop and ask the candidate whether to use the existing file, keep it and create the new one under another name, or replace it.
 
 When `candidate-profile.md` has been created or chosen, record the step 2 answer in its Settings section. If it's an existing file the candidate chose to keep using, ask them before you write to it.
 
