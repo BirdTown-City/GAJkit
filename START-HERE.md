@@ -131,14 +131,17 @@ First, make sure the import has a clean place to land:
 - **Use a separate private place for the new files,** not the folder the old files are in.
 - **Before you write anything, check all four working-file names there** (`journal.md`, `candidate-profile.md`, `story-bank.md`, `tracker.md`). If any of them already exists, including a leftover from an import that was interrupted, stop. Ask the candidate to choose a fresh private folder, and check again there. Don't replace or add to existing files as part of an import.
 - **If the place changes,** check again that you can write there, as in step 2. The new place is the answer you record in step 4.
+- **If you can't see or write to the candidate's folder,** ask them to confirm that it's a fresh private folder with none of the four names in it. Then hand back the four files, each clearly named, for them to save there without overwriting anything. Wait until they confirm all four are saved before you tell them the import worked. Only then add the first new journal entry, and hand the journal back again at the end of the session, as in step 2.
+- **When you can write there,** create each file only if it doesn't already exist, where your tools offer that, so a write never overwrites.
+- **If a write fails partway,** stop. Tell the candidate which files are confirmed saved and which aren't, leave the saved ones as they are, and ask for a fresh private folder before you try again. Don't record the import as done or start the Prologue.
 
 Then carry the old files across:
 
-- **Keep every entry.** Put each one where it fits in the new files. Old registers go into `tracker.md`: outstanding roles to Opportunities, applied roles to Applications, networking to People, watch lists to Watching, and run or sweep logs to the Search log.
+- **Keep every entry, including the old journal's history.** Put each one where it fits in the new files. Old registers go into `tracker.md`: outstanding roles to Opportunities, applied roles to Applications, networking to People, watch lists to Watching, and run or sweep logs to the Search log.
 - **Change nothing in the content.** Keep each fact's wording, numbers and confidence label. Where an old label isn't one of the labels above, use the nearest one that is no stronger, and note the old label. Converting isn't a review: don't promote, rewrite or drop anything.
 - **Flag what doesn't fit.** Anything you can't place goes in an "Imported, not yet placed" section at the end of the nearest file, saying where it came from.
 - **Don't work from the old files once the new files exist.**
-- **Once all four new files are in place,** tell the candidate in a few lines what came in, where it went and what's unplaced, write the same in the first journal entry, and ask them to check it.
+- **Once all four new files are in place,** tell the candidate in a few lines what came in, where it went and what's unplaced, write the same as the first new journal entry, after any imported journal history, and ask them to check it.
 
 ### 4. Create the working files
 
