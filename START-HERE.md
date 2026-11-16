@@ -117,11 +117,23 @@ Then check whether you can actually write there with the tools you have in this 
 - **You can save there.** Create and update the files there directly.
 - **You can't.** At the end of every session, hand back each file you changed, in full, so the candidate can save it. At the start of the next session, ask them to give the files back to you. A fresh copy each session is normal; say so, so it doesn't feel like something went wrong.
 
-Don't write anything yet. You record this answer in step 3, once `candidate-profile.md` is safely in place.
+Don't write anything yet. You record this answer in step 4, once `candidate-profile.md` is safely in place.
 
-### 3. Create the working files
+### 3. Ask about files from an older GAJ version
 
-Create these four files now, each from the layout in the phase file named. Leave sections blank until a step fills them.
+Ask whether the candidate has used GAJ before and has files from it: a story bank, a tracker or registers, a journal, a candidate model or profile, resumes. Spreadsheets are fine as CSV exports.
+
+If they do, build the new working files from them in the next step instead of starting blank:
+
+- **Keep every entry.** Put each one where it fits in the new files. Old registers go into `tracker.md`: outstanding roles to Opportunities, applied roles to Applications, networking to People, watch lists to Watching, and run or sweep logs to the Search log.
+- **Change nothing in the content.** Keep each fact's wording, numbers and confidence label. Where an old label isn't one of the labels above, use the nearest one that is no stronger, and note the old label. Converting isn't a review: don't promote, rewrite or drop anything.
+- **Flag what doesn't fit.** Anything you can't place goes in an "Imported, not yet placed" section at the end of the nearest file, saying where it came from.
+- **Leave the old files as they are,** and don't work from them once the new files exist. If an old file has the same name as a new one, the existing-file check in the next step applies to it.
+- **Tell the candidate** in a few lines what came in, where it went and what's unplaced, write the same in the first journal entry, and ask them to check it.
+
+### 4. Create the working files
+
+Create these four files now, each from the layout in the phase file named, or from the candidate's old files (step 3). Leave sections blank until a step fills them.
 
 Before you create each one, check whether a file of that name is already in the chosen place. If it is, don't overwrite it. Stop and ask the candidate whether to use the existing file, keep it and create the new one under another name, or replace it.
 
@@ -138,7 +150,7 @@ Resumes and cover letters are documents in whatever format the candidate uses. K
 
 Markdown is the working record. If the candidate wants a spreadsheet, see "Spreadsheet view" below.
 
-### 4. Check your own tools
+### 5. Check your own tools
 
 Note in Settings, briefly, what you can and can't do in this conversation:
 
@@ -149,9 +161,9 @@ Note in Settings, briefly, what you can and can't do in this conversation:
 
 For scheduled tasks, check your own tools first. If you have one, say so and offer it when a step can use it. If you can't tell, ask the candidate whether their app can schedule a task. If neither, run everything in the conversation. Don't research other apps.
 
-### 5. Start the Prologue
+### 6. Start the Prologue
 
-Open `phases/1-prologue.md` and begin.
+Open `phases/1-prologue.md` and begin. If the candidate brought old files, agree with them where things stand first, and do only the parts of the Prologue and later phases that the old files don't already cover.
 
 ## Every session after the first
 

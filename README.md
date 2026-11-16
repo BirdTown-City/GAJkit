@@ -10,6 +10,8 @@ You don't need to read this kit; your AI does. It's written for any major AI ass
 2. Tell it: "Read START-HERE.md and follow it."
 3. Answer its questions. It will ask where to keep your files, then start by asking why you're looking.
 
+Used an older version of GAJ? Give your AI your old files too, such as your story bank and tracker (spreadsheets exported as CSV are fine). It will carry them into the new files and tell you anything it couldn't place.
+
 Plan to spend your first sessions on your career stories, your people and your profile, not on cold applications.
 
 ## What it does
