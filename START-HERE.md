@@ -117,13 +117,15 @@ Then check whether you can actually write there with the tools you have in this 
 - **You can save there.** Create and update the files there directly.
 - **You can't.** At the end of every session, hand back each file you changed, in full, so the candidate can save it. At the start of the next session, ask them to give the files back to you. A fresh copy each session is normal; say so, so it doesn't feel like something went wrong.
 
-Record the answer in the Settings section of `candidate-profile.md`.
+Don't write anything yet. You record this answer in step 3, once `candidate-profile.md` is safely in place.
 
 ### 3. Create the working files
 
 Create these four files now, each from the layout in the phase file named. Leave sections blank until a step fills them.
 
 Before you create each one, check whether a file of that name is already in the chosen place. If it is, don't overwrite it. Stop and ask the candidate whether to use the existing file, keep it and create the new one under another name, or replace it.
+
+When `candidate-profile.md` has been created or chosen, record the step 2 answer in its Settings section. If it's an existing file the candidate chose to keep using, ask them before you write to it.
 
 | File | What it holds | Layout in |
 |---|---|---|
