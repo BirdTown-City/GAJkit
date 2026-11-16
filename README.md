@@ -29,7 +29,7 @@ The AI keeps your search in a few markdown files: a journal, your profile, your 
 
 ## Versions
 
-Each kit version is tagged (for example `kit-v1.1`) and published as a GitHub Release.
+Each kit version is tagged (for example `GAJ-kit-v1.2`) and published as a GitHub Release.
 
 ## Privacy
 
