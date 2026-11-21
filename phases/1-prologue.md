@@ -51,8 +51,8 @@ These go in the "Practical situation" section of `candidate-profile.md`. Ask onl
 
 End with a goal the candidate accepts. It contains:
 
-- at least one **pull**: what they want more of;
-- at least one **push**: what they want less of, or a pattern to avoid;
+- what is motivating the search: a **pull**, a **push**, both, or uncertainty they want to resolve;
+- what they want more of or less of, where known; don't invent either to fill a field;
 - one or more kinds of work or problems worth testing; these can be patterns rather than job titles;
 - the practical constraints and known uncertainty;
 - their agreement that the goal is worth working toward and testing.
@@ -67,7 +67,18 @@ Rules:
 
 Read the goal back. Write it in the "Goal" section of `candidate-profile.md`, and note the session in `journal.md`.
 
-**Move on** when the candidate has said why they're looking and accepted a goal specific enough to guide what Phase 2 is trying to learn. Don't start the full career walk-through until there's at least one accepted goal.
+### Completion check
+
+**SCOPE:** `PHASE:1`. **INPUT:** the candidate's account, proposed goal and practical constraints. **OUTPUT:** the Goal and Practical situation sections, plus the journal assessment under `TR-01` through `TR-07`.
+
+| ID | Required condition and PASS evidence |
+|---|---|
+| `P1-G01` Motive | Candidate-account references establish why they are looking, what matters now and desired changes, including genuine uncertainty. No invented push or pull. |
+| `P1-G02` Goal | A `candidate_ref` accepts a working goal naming a kind of work/problem to test and what Phase 2 needs to learn. It may be provisional and need not be a title. |
+| `P1-G03` Practical limits | Search-shaping constraints and urgency are recorded as known, unknown or declined. Each consequential unknown has a next action or an explicit limit; unavailable information is not repeatedly requested. |
+| `P1-G04` Interests and next step | Stated interests/pivots are retained, and a `candidate_ref` agrees what to explore next. Interest is not recorded as qualification. |
+
+**DONE WHEN:** all four IDs PASS and the shared transition contract permits COMPLETE. **FAILURE:** keep the phase OPEN or PAUSED and address the failed/unknown IDs. MUST NOT start the full Phase 2 walkthrough without an accepted working goal. A short Prologue can pass; it does not answer the career-history questions reserved for Phase 2.
 
 ---
 
