@@ -1,8 +1,10 @@
 # Phase 5: Search and applying
 
-**What it gives the candidate:** a steady, low-stress routine that spends their time where offers actually come from: people first, then recruiters, then cold applications if they want them. Each application they send is honest, tailored and worth sending.
+**What it gives the candidate:** a steady routine using the channels they choose, initially considering relationships, recruiters and optional cold applications, then testing that order against their actual results. Each application they send is honest, tailored and worth sending.
 
-**Before you start:** Phase 4 has picked the first people to talk to and set up the base resume. Relationship follow-ups and recruiter replies can start before the rest of Phase 4 is finished.
+**Before you start:** Phase 4 has agreed the channels to use and prepared the supported positioning or base resume the next activity needs. Relationship follow-ups and recruiter replies can start before the rest of Phase 4 is finished; a people list is needed only when relationship work is chosen.
+
+This phase is ongoing. Do not mark it complete because a shortlist, resume or daily run exists. Earlier discovery can remain open under the provisional rule in `START-HERE.md`; perform only work whose specific evidence and candidate decisions are ready. An application still needs its supported base resume, five checks and candidate review. No suitable contacts is not a block: respect the candidate's channel choices.
 
 ## How the search is organized
 
@@ -182,13 +184,13 @@ Rules:
 
 ### Step 6. Build
 
-Copy the base resume, apply the edit list, and save it with a clear file name, for example `Firstname-Lastname-Company-Role-YYYY-MM-DD`. Then run the five checks as a preflight.
+Copy the base resume and apply the edit list. For each new or substantively changed bullet, run Phase 4 `RB-01` through `RB-05`, using a current applicable method brief under `RS-01` through `RS-08`. Then save it with a clear file name, for example `Firstname-Lastname-Company-Role-YYYY-MM-DD`. Then run the five checks as a preflight.
 
 ### The five checks
 
 Run all five as a preflight before the candidate sees the draft, and record each result in the application note. Fix what fails; don't send a failing draft with a note. Two of the checks are run again just before the candidate submits: the posting check (3) always, and any other check whose inputs have changed since the preflight.
 
-1. **No overstated claims.** Every claim and every number traces to the Story Bank, the resume bank or the base resume, keeping its qualifiers, scope and confidence. No verb or object goes beyond what the candidate owned. Flag weak verbs that hide real ownership, and strengthen them only within the evidence.
+1. **No overstated claims.** Every claim and every number traces to the underlying reconstructed and approved evidence in the Story Bank or resume bank, keeping its qualifiers, scope and confidence. The base resume carries that evidence forward; it cannot be the sole proof of a claim. Confirm chronology against the candidate-checked record. No verb or object goes beyond what the candidate owned. Flag weak verbs that hide real ownership, and strengthen them only within the evidence.
 2. **Required qualifications are covered or flagged.** List every material requirement and the bullet that carries it, or mark it a gap. Polished wording never hides an uncovered hard screen.
 3. **The posting is still live.** In the preflight, record what the employer's site showed and when. Recheck it just before the candidate submits, in Step 8; a preflight result alone isn't enough to apply on.
 4. **It's readable by screening software.** This is a formatting check: standard headings, real employer, title and date lines, no content hidden in images, text boxes or complex tables, and nothing that would read as a fake job. Record it as "formatting checked". It isn't proof of how the employer's system will read the file. Only when the candidate sees the employer's form parse the resume, and shares what it shows, is it an observed parser test: then review that parse, fix what it misread, and record "parse observed".
@@ -218,6 +220,8 @@ Once submission is confirmed:
 - move the role from Opportunities to Applications in `tracker.md`, with the date and the resume file used;
 - save the final submitted copy and the posting text, or a link to it, beside the application note;
 - note any application-form details worth remembering in the tracker row.
+
+**Completion contract:** scope is `APPLICATION:<id>:PREPARATION`, not the whole search. `P5-G01` passes only when all five checks above pass on the current materials, including any required `RB`/`RS` work; `P5-G02` passes only with candidate approval of those materials and the gap handling. Both must PASS before preparation is COMPLETE under the shared transition contract. `SUBMITTED` additionally requires the Step 8 candidate/employer confirmation; preparation completion cannot supply it. Keep prepared, approved, ready to apply and submitted distinct. Starting an interview does not complete the wider search.
 
 ### Step 9. Improve the base, through the journal
 

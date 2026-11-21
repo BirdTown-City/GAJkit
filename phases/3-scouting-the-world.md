@@ -2,7 +2,7 @@
 
 **What it gives the candidate:** a clear, honest picture of the market for someone like them, so they stop guessing what employers want and can see a realistic path to their goal. They come out with an approved direction and a few next-role objectives.
 
-**Before you start:** the candidate has an approved candidate profile and an interview-ready set (Phase 2).
+**Before you start:** normally, Phase 2 is complete with an approved candidate profile and usable story set. If bounded research would help answer a named question while Phase 2 is open, agree and record CONTINUE_PROVISIONALLY under `START-HERE.md`. Use only supported inputs, keep candidate conclusions provisional, and state which missing evidence the research cannot supply.
 
 ## Rules for this phase
 
@@ -10,10 +10,13 @@
 - **Market evidence is evidence.** Postings, recruiter messages and employer statements are dated, sourced samples, not facts about the candidate.
 - **Research is bounded.** Answer from what you already have first. Look at postings only to answer a named question, and set a stopping point before you start. "Not enough evidence yet" is a valid result.
 - **Read the requirements properly.** A posting's requirements decide qualification; its duties describe the work. See "Reading a posting" in `phases/5-search-and-applying.md`. A new duty the candidate hasn't done before isn't a gap unless the employer actually requires prior experience of it.
+- **Keep research tied to current candidate inputs.** Record which version or date of the goal, constraints and profile the report uses. If a material correction changes the comparison, revise the affected recommendation or mark it as awaiting revision before relying on it. A separate research document gets the same limits as the report in `candidate-profile.md`; link to it there rather than keeping competing current conclusions.
 
 ## Step 1. Translate strengths into what employers buy
 
 Turn the candidate's strengths, preferences and goal into a short list of skill groups and role families that employers actually hire for, in the words employers use. For each, name the employer problem it solves and the candidate's strongest supporting stories.
+
+Carry forward every candidate-stated interest or pivot that is still relevant. With the candidate, mark each as investigate now, defer with a reason, or reject with a reason. An interest with thin evidence can be investigated as an interest; do not omit it from the shortlist silently or treat it as a demonstrated capability.
 
 Employer vocabulary is search language, not a new claim; claim boundaries stay as approved. Keep strengths the market clearly buys even if they're off the goal; the candidate decides whether to use them.
 
@@ -89,7 +92,16 @@ Ask, briefly:
 
 A "not yet" points to the part of the report to revisit.
 
-**Move on** when the candidate has authorized a direction (or a clearly bounded exploratory one) and the objectives.
+**SCOPE:** `PHASE:3`. **INPUT:** current candidate evidence/constraints, bounded research and candidate comparisons. **OUTPUT:** current market report, authorized objectives and the journal assessment.
+
+| ID | Required condition and PASS evidence |
+|---|---|
+| `P3-G01` Market evidence | Named questions are answered using dated, opened sources and a bounded sample, or the report explicitly states what the sample cannot establish. Relevant contrary evidence is considered. A narrow search is not reported as no demand. Research follows `RS-01` through `RS-08`. |
+| `P3-G02` Candidate comparison | Proposed directions distinguish personal fit, supported capability, explicit eligibility and market uncertainty. Candidate evidence that could change the proposed decision is resolved, or the direction is narrowed so the decision no longer depends on it. |
+| `P3-G03` Candidate decision | A `candidate_ref` shows consideration of stated interests, gaps and tradeoffs and authorization of the direction and next-role objectives. |
+| `P3-G04` Usable understanding | Candidate conversation shows they can explain the proposed possibilities and important limits, with aids if helpful. A list of titles or an unsupported assertion of understanding fails. |
+
+**DONE WHEN:** `P3-G01` through `P3-G04` all PASS and the shared transition contract permits COMPLETE. Completing a bounded exploratory question alone does not complete Phase 3. **FAILURE:** revisit the affected discovery or research, pause, or use a bounded provisional decision. MUST NOT mark Phase 2 complete to clear this gate. Research never authorizes outreach or applications.
 
 ## Refreshing it later
 
@@ -104,6 +116,8 @@ Replace this section each time you refresh it, and note the refresh in the journ
 ```markdown
 ## What the market buys
 Date:
+Candidate inputs used (goal, constraints and profile version/date):
+Scope and limits (including any earlier phase still open):
 Question answered:
 Where I looked, how I chose, and when I stopped:
 

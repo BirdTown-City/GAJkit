@@ -1,6 +1,6 @@
 # Phase 6: Interviews and offer
 
-**What it gives the candidate:** they walk into each conversation knowing the other side, their own plan and their best stories, having practised out loud. They walk out with lessons that make the next one better. When an offer comes, they decide on the actual work and environment, not on title or pay alone.
+**What it gives the candidate:** they enter each conversation knowing the other side, their own plan and their best stories, with preparation and practice suited to them. They leave with lessons that make the next one better. When an offer comes, they decide on the actual work and environment, not on title or pay alone.
 
 **Starts when:** an application reaches screening or interview, or the candidate wants to prepare for an important recruiter call, networking conversation or offer discussion.
 
@@ -18,12 +18,14 @@
 
 Plan each conversation in proportion to its stakes. Only the first step is required. Plain conversation with the candidate is always a valid way to prepare.
 
+**Completion contract:** scope is `CONVERSATION:<id>:PREPARATION`. `P6-C01` requires a candidate-agreed preparation scope from Step 1. `P6-C02` requires evidence that every selected part is done; if the candidate reduces the scope or defers practice, record the amended scope and remaining limit rather than reporting the original scope complete. `P6-C03` requires recorded claim boundaries, relevant logistics checks and preparation limits. All three must PASS under the shared transition contract before this preparation is COMPLETE. STANDARD/FULL includes the agreed rehearsal; typed practice, notes and other aids are valid. Apply `RS-01` through `RS-08` to external method choices and current employer/platform facts. No result here completes the whole phase or search.
+
 The parts:
 
 - **Scouting Report**: understand the other side, the setting and the stakes.
 - **Game Plan**: the candidate's goal, their stories, a few if-then options, an optional opening, and what not to claim.
 - **Call Sheet**: a one-page view to carry in, or a decision that none is needed.
-- **Rehearsal**: practise out loud in conditions like the real ones, and check logistics.
+- **Rehearsal**: practise in a useful format, spoken or typed with aids as needed, and check logistics.
 - **Film Review**: afterwards, what was intended, what happened, and what to keep, change or leave open.
 - **Self-scout**: patterns in the candidate's own conduct across several interviews.
 
@@ -125,11 +127,11 @@ For FULL, and optional for STANDARD: one page with the purpose, context, the emp
 
 For STANDARD and FULL, or whenever the candidate asks:
 
-- the candidate says the opening and top stories out loud, conversationally, in conditions like the real ones where practical: the same format, seated or standing, camera on for a video call;
+- the candidate practises the opening and top stories conversationally, spoken or typed with aids as useful, approximating the actual format where practical;
 - you ask the likely follow-ups and one hard question, and give brief, specific feedback;
 - check the link or address, time zone, start time, materials, setup and a fallback.
 
-Practise telling, never memorizing; vary the wording between run-throughs. The goal is ease, not perfection.
+Practise telling, never memorizing; vary the wording between run-throughs where useful. The goal is usable preparation, not a performance threshold. Record the format actually practised and any relevant format or logistics limit. If practice is deferred, record that choice and limit rather than marking rehearsal done.
 
 ### Step 12. Film Review, afterwards
 
@@ -171,6 +173,8 @@ A good opportunity keeps reasonable balance among responsibility, authority, res
 Don't let speculative upside disguise weak guaranteed pay or a poor environment. Private-company equity is speculative until the grant, strike price or valuation, vesting, share count, liquidity limits and treatment on a sale are understood well enough to judge.
 
 **The candidate decides.** You organize the facts, compare the offer with their constraints and profile, surface unresolved tradeoffs, separate known facts from assumptions, and keep the due-diligence notes. You don't decide their values or tradeoffs for them.
+
+**Offer/closure contract:** before presenting an evaluation as ready for a decision, `P6-O01` requires confirmed terms, remaining unknowns and their effect on the comparison to be visible, with current sources under `RS-01` through `RS-08`. The candidate may decide with uncertainty; record that choice, not a claim the uncertainty is resolved. `P6-O02` permits `OPPORTUNITY:<id>` to close only on employer closure evidence or the candidate's explicit decision, with reason and any next action. `P6-O01` applies only to presenting an offer evaluation as ready. It is never a prerequisite for recording an employer rejection, withdrawn offer or candidate decision to close the opportunity. `OPPORTUNITY:<id>` closure requires `P6-O02`, not completion of the evaluation or new agreement to a next activity. An offer document, suggested answer or interview plan alone never closes an opportunity or the wider search.
 
 When the search ends, write a journal entry, update the tracker, and ask the candidate whether to close open conversations politely, so the relationships stay warm.
 
@@ -233,7 +237,8 @@ Open practical questions:
 (One page from parts 1 to 5, or: none needed, because ___)
 
 ## 7. Rehearsal
-Opening and top stories said out loud:
+Opening and top stories practised (spoken / typed; aids used):
+Deferred practice or relevant format limits:
 Follow-ups and one hard question:
 Feedback:
 Logistics checked:
